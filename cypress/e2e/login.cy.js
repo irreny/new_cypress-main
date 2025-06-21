@@ -1,7 +1,7 @@
-import * as data from "../helpers/default_data.json"
-import * as main_page from "../locators/main_page.json";
-import * as recovery_password_page from "../locators/recovery_password_page.json"
-import * as result_page from "../locators/result_page.json"
+import * as data from '../helpers/default_data.json'
+import * as main_page from '../locators/main_page.json'
+import * as recovery_password_page from '../locators/recovery_password_page.json'
+import * as result_page from '../locators/result_page.json'
 
 describe('Проверка авторизации', function () {
 

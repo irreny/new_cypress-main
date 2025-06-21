@@ -1,6 +1,6 @@
-import * as main_page from "../locators/avatar_main.json"
-import * as trainer_page from "../locators/avatar_trainer.json"
-import * as payment_page from "../locators/avatar_payment.json"
+import * as main_page from '../locators/avatar_main.json'
+import * as trainer_page from '../locators/avatar_trainer.json'
+import * as payment_page from '../locators/avatar_payment.json'
 
 describe('Проверка покупки нового аватара', function () {
 
