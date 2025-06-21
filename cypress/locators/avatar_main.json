@@ -1,0 +1,8 @@
+{
+  "title": ".style_1_popup_white_title",
+  "email": "#k_email",
+  "password": "#k_password",
+  "login_button": ".MuiButton-root",
+  "fogot_pass_btn": ".style_1_popup_white_link_left",
+  "footer": ".k_footer_container_version"
+}
